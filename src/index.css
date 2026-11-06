@@ -1,0 +1,19 @@
+/* Global reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Base page styling */
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+/* React root container */
+#root {
+  min-height: 100vh;
+}
